@@ -2,8 +2,8 @@
  A Binary Logistic regression model for predicting if a person would buy life insurnace based on his age.
  
  
-**Model of Logistic Regression
-***Class Logistic Regression has four functions:-
+** Model of Logistic Regression
+
 
     Sigmoid Function:-
         Takes input z and returns its sigmoid.
